@@ -8,10 +8,10 @@
 
 ## Logo:
 
-1.Go to https://gdcolon.com/gdfont
-2. Use the "Logo" option to generate text
-3. Click the download button
-4. Drag the image to the main folder (make sure it's named "logo.png")
+1.Go to https://gdcolon.com/gdfont  
+2. Use the "Logo" option to generate text  
+3. Click the download button  
+4. Drag the image to the main folder (make sure it's named "logo.png")  
 
 
 Remember to credit me and Starmor for the template ;)
