@@ -14,6 +14,6 @@
 4. Drag the image to the main folder (make sure it's named "logo.png")
 
 ## See the demo
-You can see the demo here: https://files.therealvanyek.ml/improvedgdpstemplate/
+You can see the demo here: https://4vanyek.github.io/GDPS-Site-Template-Improved/
 ## Credit
 Remember to credit me and Starmor for the template ;)
